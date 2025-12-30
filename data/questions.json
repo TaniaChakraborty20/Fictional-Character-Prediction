@@ -1,0 +1,288 @@
+{
+  "traits": [
+    "emotional_control",
+    "empathy",
+    "optimism",
+    "anger_intensity",
+    "intelligence",
+    "creativity",
+    "strategic_thinking",
+    "problem_solving",
+    "leadership",
+    "teamwork",
+    "communication",
+    "sense_of_justice",
+    "loyalty",
+    "bravery",
+    "impulsiveness"
+  ],
+
+  "questions": [
+    {
+      "id": 1,
+      "question": "You are suddenly faced with danger. What do you do?",
+      "options": {
+        "Stay calm and assess the situation": {
+          "emotional_control": 2,
+          "strategic_thinking": 2,
+          "problem_solving": 1
+        },
+        "Rush in to help immediately": {
+          "bravery": 2,
+          "impulsiveness": 2,
+          "loyalty": 1
+        },
+        "Look for help or support": {
+          "teamwork": 2,
+          "communication": 1,
+          "empathy": 1
+        },
+        "Avoid it completely": {
+          "emotional_control": 1,
+          "bravery": -1
+        }
+      }
+    },
+
+    {
+      "id": 2,
+      "question": "A teammate makes a serious mistake. You",
+      "options": {
+        "Help them fix it quietly": {
+          "empathy": 2,
+          "loyalty": 1,
+          "teamwork": 1
+        },
+        "Point it out openly": {
+          "sense_of_justice": 2,
+          "communication": 1
+        },
+        "Get angry about it": {
+          "anger_intensity": 2,
+          "impulsiveness": 1
+        },
+        "Take control of the situation": {
+          "leadership": 2,
+          "problem_solving": 1
+        }
+      }
+    },
+
+    {
+      "id": 3,
+      "question": "How do you usually solve problems?",
+      "options": {
+        "By logical analysis": {
+          "intelligence": 2,
+          "problem_solving": 2
+        },
+        "By creative thinking": {
+          "creativity": 2,
+          "problem_solving": 1
+        },
+        "By planning long-term": {
+          "strategic_thinking": 2,
+          "emotional_control": 1
+        },
+        "By acting on instinct": {
+          "impulsiveness": 2,
+          "bravery": 1
+        }
+      }
+    },
+
+    {
+      "id": 4,
+      "question": "In a group project, you usually",
+      "options": {
+        "Lead the group": {
+          "leadership": 2,
+          "emotional_control": 1
+        },
+        "Support everyone": {
+          "teamwork": 2,
+          "empathy": 1
+        },
+        "Share ideas actively": {
+          "communication": 2,
+          "creativity": 1
+        },
+        "Work alone if possible": {
+          "intelligence": 1,
+          "teamwork": -1
+        }
+      }
+    },
+
+    {
+      "id": 5,
+      "question": "What motivates you the most?",
+      "options": {
+        "Doing what is right": {
+          "sense_of_justice": 2,
+          "loyalty": 1
+        },
+        "Protecting loved ones": {
+          "loyalty": 2,
+          "bravery": 1
+        },
+        "Achieving success": {
+          "leadership": 1,
+          "strategic_thinking": 1
+        },
+        "Exploring new ideas": {
+          "creativity": 2,
+          "optimism": 1
+        }
+      }
+    },
+
+    {
+      "id": 6,
+      "question": "How do you react under pressure?",
+      "options": {
+        "Remain calm": {
+          "emotional_control": 2,
+          "problem_solving": 1
+        },
+        "Get angry": {
+          "anger_intensity": 2
+        },
+        "Act quickly without thinking": {
+          "impulsiveness": 2,
+          "bravery": 1
+        },
+        "Think carefully before acting": {
+          "strategic_thinking": 2
+        }
+      }
+    },
+
+    {
+      "id": 7,
+      "question": "If rules block the right thing to do, you",
+      "options": {
+        "Break them without hesitation": {
+          "bravery": 2,
+          "impulsiveness": 1
+        },
+        "Find a smart workaround": {
+          "intelligence": 1,
+          "strategic_thinking": 2
+        },
+        "Follow rules anyway": {
+          "sense_of_justice": 1,
+          "emotional_control": 1
+        },
+        "Consult others first": {
+          "teamwork": 1,
+          "communication": 2
+        }
+      }
+    },
+
+    {
+      "id": 8,
+      "question": "How do you usually express yourself?",
+      "options": {
+        "Clearly and confidently": {
+          "communication": 2,
+          "leadership": 1
+        },
+        "Emotionally and honestly": {
+          "empathy": 2
+        },
+        "Creatively": {
+          "creativity": 2
+        },
+        "I prefer not to": {
+          "communication": -1,
+          "emotional_control": 1
+        }
+      }
+    },
+
+    {
+      "id": 9,
+      "question": "Your biggest strength is",
+      "options": {
+        "Courage": {
+          "bravery": 2
+        },
+        "Intelligence": {
+          "intelligence": 2
+        },
+        "Kindness": {
+          "empathy": 2
+        },
+        "Leadership": {
+          "leadership": 2
+        }
+      }
+    },
+
+    {
+      "id": 10,
+      "question": "When plans fail, you",
+      "options": {
+        "Adapt quickly": {
+          "problem_solving": 2,
+          "emotional_control": 1
+        },
+        "Create a new plan": {
+          "strategic_thinking": 2
+        },
+        "React emotionally": {
+          "anger_intensity": 1,
+          "impulsiveness": 1
+        },
+        "Rely on others": {
+          "teamwork": 2
+        }
+      }
+    },
+
+    {
+      "id": 11,
+      "question": "How do you treat loyalty?",
+      "options": {
+        "It means everything": {
+          "loyalty": 2
+        },
+        "It depends on fairness": {
+          "sense_of_justice": 2
+        },
+        "I value independence more": {
+          "loyalty": -1,
+          "strategic_thinking": 1
+        },
+        "I protect my close circle": {
+          "loyalty": 1,
+          "bravery": 1
+        }
+      }
+    },
+
+    {
+      "id": 12,
+      "question": "Your decisions are mostly",
+      "options": {
+        "Well thought out": {
+          "intelligence": 1,
+          "strategic_thinking": 2
+        },
+        "Emotion-driven": {
+          "empathy": 1,
+          "impulsiveness": 1
+        },
+        "Bold and fast": {
+          "bravery": 1,
+          "impulsiveness": 2
+        },
+        "Balanced": {
+          "emotional_control": 2
+        }
+      }
+    }
+  ]
+}

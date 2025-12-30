@@ -1,0 +1,61 @@
+name,universe,movie,emotional_control,empathy,optimism,anger_intensity,intelligence,creativity,strategic_thinking,problem_solving,leadership,teamwork,communication,sense_of_justice,loyalty,bravery,impulsiveness
+
+Harry Potter,Harry Potter,,3,4,4,3,3,3,3,3,4,5,4,5,5,5,3
+Hermione Granger,Harry Potter,,5,4,3,1,5,4,4,5,3,4,4,5,5,3,2
+Ron Weasley,Harry Potter,,2,4,4,3,2,2,2,2,3,5,3,4,5,4,4
+Albus Dumbledore,Harry Potter,,5,4,4,1,5,5,5,5,5,4,5,5,5,3,1
+Severus Snape,Harry Potter,,4,2,2,3,5,3,4,4,3,2,2,4,5,4,2
+Draco Malfoy,Harry Potter,,2,2,3,3,3,2,2,2,2,2,3,2,3,2,4
+Lord Voldemort,Harry Potter,,5,1,1,4,5,3,5,5,5,1,4,1,1,3,2
+Minerva McGonagall,Harry Potter,,5,4,3,1,5,3,4,4,4,4,3,5,5,4,1
+Sirius Black,Harry Potter,,2,4,4,3,3,3,2,3,3,4,4,4,5,5,4
+Luna Lovegood,Harry Potter,,4,5,4,1,4,5,3,3,2,3,3,4,4,3,2
+
+Elsa,Disney,Frozen,4,5,3,1,4,4,3,4,4,3,3,5,5,4,2
+Anna,Disney,Frozen,3,5,5,2,3,3,2,3,4,5,4,5,5,5,4
+Olaf,Disney,Frozen,3,5,5,1,2,4,1,2,1,5,4,4,5,3,4
+Kristoff,Disney,Frozen,4,4,4,1,3,2,2,3,2,4,3,4,5,4,2
+
+Moana,Disney,Moana,4,5,5,1,4,4,3,4,4,4,4,5,5,5,3
+Maui,Disney,Moana,2,3,4,3,3,4,2,3,3,3,4,3,4,5,4
+Gramma Tala,Disney,Moana,5,5,5,1,4,5,3,3,2,3,4,5,5,3,1
+
+Bambi,Disney,Bambi,2,5,4,1,2,3,1,2,1,3,2,4,5,2,3
+Faline,Disney,Bambi,3,5,4,1,2,3,1,2,1,3,2,4,5,2,2
+Thumper,Disney,Bambi,3,4,5,1,2,4,1,2,1,4,4,3,5,2,4
+The Great Prince,Disney,Bambi,5,3,3,1,4,2,4,4,4,2,3,5,4,4,1
+
+Judy Hopps,Disney,Zootopia,4,5,5,1,4,3,3,4,4,4,4,5,5,5,3
+Nick Wilde,Disney,Zootopia,3,4,4,2,4,4,3,3,3,3,5,4,4,4,3
+Chief Bogo,Disney,Zootopia,4,3,3,2,3,2,4,4,4,3,3,5,4,3,2
+Bellwether,Disney,Zootopia,3,2,3,2,4,2,4,4,1,2,3,2,1,2,2
+
+Rapunzel,Disney,Tangled,3,5,5,1,4,5,2,3,3,4,4,5,5,4,4
+Flynn Rider,Disney,Tangled,3,4,4,2,4,3,3,3,3,3,4,4,5,4,3
+Mother Gothel,Disney,Tangled,4,2,3,2,4,3,4,4,3,1,4,1,1,2,2
+
+Nemo,Pixar,Finding Nemo,2,5,5,1,2,3,1,2,1,4,3,4,5,3,3
+Marlin,Pixar,Finding Nemo,4,5,3,2,3,2,3,3,2,3,3,4,5,4,2
+Dory,Pixar,Finding Nemo,2,5,5,1,2,4,1,2,1,4,4,4,5,4,5
+
+Mr. Incredible,Pixar,The Incredibles,3,4,4,3,3,2,2,3,4,4,3,5,5,5,3
+Elastigirl,Pixar,The Incredibles,5,4,4,1,4,3,4,4,4,4,4,5,5,4,2
+Violet Parr,Pixar,The Incredibles,3,4,3,2,4,3,3,3,2,3,3,4,5,3,2
+Dash Parr,Pixar,The Incredibles,2,3,5,2,2,2,1,2,1,3,2,3,4,4,5
+Syndrome,Pixar,The Incredibles,3,1,2,3,4,3,4,4,4,1,3,2,1,3,3
+
+Carl Fredricksen,Pixar,Up,4,4,3,1,3,2,2,3,2,2,2,4,4,3,1
+Russell,Pixar,Up,2,5,5,1,2,3,1,2,1,3,3,4,5,3,4
+
+Snow White,Disney Princesses 👑,Snow White and the Seven Dwarfs,3,5,5,1,2,3,1,2,2,5,4,4,5,3,2
+Cinderella,Disney Princesses 👑,Cinderella,4,5,5,1,3,3,2,3,3,4,4,4,5,4,2
+Aurora,Disney Princesses 👑,Sleeping Beauty,4,4,4,1,2,4,1,2,2,3,3,4,4,3,2
+Ariel,Disney Princesses 👑,The Little Mermaid,3,5,5,2,3,4,2,3,2,3,4,4,4,5,5
+Belle,Disney Princesses 👑,Beauty and the Beast,5,5,4,1,5,4,4,5,3,3,4,5,5,4,2
+Jasmine,Disney Princesses 👑,Aladdin,4,4,4,2,4,3,3,4,4,3,4,5,5,4,3
+Mulan,Disney Princesses 👑,Mulan,4,4,4,2,4,3,4,4,4,4,3,5,5,5,3
+Tiana,Disney Princesses 👑,The Princess and the Frog,5,4,4,1,4,3,4,4,4,4,4,5,5,4,2
+Rapunzel,Disney Princesses 👑,Tangled,3,5,5,1,4,5,2,3,3,4,4,5,5,4,4
+Merida,Disney Princesses 👑,Brave,3,3,4,3,3,3,2,3,3,2,3,4,4,5,5
+Moana,Disney Princesses 👑,Moana,4,5,5,1,4,4,3,4,4,4,4,5,5,5,3
+Raya,Disney Princesses 👑,Raya and the Last Dragon,4,4,3,2,4,3,4,4,4,3,3,5,5,5,2
